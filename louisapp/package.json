@@ -1,0 +1,22 @@
+{
+  "name": "MyLUISAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "2.83.0"
+  },
+  "devDependencies": {
+    "@types/request": "2.0.12",
+    "@types/node": "8.5.7",
+    "ts-node": "4.1.0",
+    "typescript": "2.6.2",
+    "tslint": "5.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
